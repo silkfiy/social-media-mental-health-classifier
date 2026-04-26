@@ -9,7 +9,7 @@ dataset pulled from [LLNL Jan 2026 Datathon](https://data-science.llnl.gov/lates
 - LinearSVC with hyperparameter tuning
 
 ## Results
-it does good ~97% accurace (f1 macro)
+it does good ~97% accuracy (f1 macro)
 
 ## View Notebook
-[View on nbviewer](https://nbviewer.org/github/yourusername/your-repo/blob/main/your_notebook.ipynb)
+[View on nbviewer](https://nbviewer.org/github.com/silkfiy/social-media-mental-health-classifier/blob/main/mental_health_social_media_prediction.ipynb)
