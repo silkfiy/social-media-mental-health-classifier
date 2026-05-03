@@ -1,0 +1,62 @@
+[
+  {
+    "age": 21,
+    "gender": "Female",
+    "platform": "YouTube",
+    "daily_screen_time_min": 480,
+    "social_media_time_min": 100,
+    "negative_interactions_count": 1,
+    "positive_interactions_count": 2,
+    "sleep_hours": 7,
+    "physical_activity_min": 40,
+    "anxiety_level": 8,
+    "stress_level": 3,
+    "mood_level": 4,
+    "mental_state": "At_Risk"
+  },
+  {
+    "age": 19,
+    "gender": "Male",
+    "platform": "Instagram",
+    "daily_screen_time_min": 540,
+    "social_media_time_min": 300,
+    "negative_interactions_count": 1,
+    "positive_interactions_count": 2,
+    "sleep_hours": 7,
+    "physical_activity_min": 30,
+    "anxiety_level": 4,
+    "stress_level": 5,
+    "mood_level": 4,
+    "mental_state": "At_Risk"
+  },
+  {
+    "age": 35,
+    "gender": "Male",
+    "platform": "Instagram",
+    "daily_screen_time_min": 320,
+    "social_media_time_min": 160,
+    "negative_interactions_count": 1,
+    "positive_interactions_count": 2,
+    "sleep_hours": 7.4,
+    "physical_activity_min": 28,
+    "anxiety_level": 2,
+    "stress_level": 7,
+    "mood_level": 6,
+    "mental_state": "Stressed"
+  },
+  {
+    "age": 19,
+    "gender": "Male",
+    "platform": "Instagram",
+    "daily_screen_time_min": 540,
+    "social_media_time_min": 300,
+    "negative_interactions_count": 1,
+    "positive_interactions_count": 2,
+    "sleep_hours": 7,
+    "physical_activity_min": 30,
+    "anxiety_level": 4,
+    "stress_level": 5,
+    "mood_level": 4,
+    "mental_state": "At_Risk"
+  }
+]
